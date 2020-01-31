@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name jig-rescue)(type Legacy)(uri ${KIPRJMOD}/jig-rescue.lib)(options "")(descr ""))
+  (lib (name ADS1015)(type Legacy)(uri ${KIPRJMOD}/lib/ADS1015.lib)(options "")(descr ""))
+  (lib (name INA219)(type Legacy)(uri ${KIPRJMOD}/lib/INA219.lib)(options "")(descr ""))
+  (lib (name MLAB_IO)(type Legacy)(uri ${KIPRJMOD}/lib/MLAB_IO.lib)(options "")(descr ""))
+)
